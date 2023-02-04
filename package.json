@@ -1,0 +1,30 @@
+{
+  "name": "ataraxia",
+  "version": "1.0.0",
+  "description": "Ataraxia is a bot built for Ataraxia community to facilitate functions like moderation, music, ticket & more..",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lerkfx/axa.git"
+  },
+  "keywords": [
+    "Ataraxia",
+    "Ashey",
+    "Lerk",
+    "Mxster",
+    "Master",
+    "Designing",
+    "Hub",
+    "Developer",
+    "Bots"
+  ],
+  "author": "Ashey#6801",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lerkfx/axa/issues"
+  },
+  "homepage": "https://github.com/lerkfx/axa#readme"
+}
